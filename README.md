@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ryley Johnson
 
-🌱 I’m currently learning QA Engineering
+🌱 I’m currently learning playwright/typescript 
 
 ## 📚 Involved in these communities:
 
