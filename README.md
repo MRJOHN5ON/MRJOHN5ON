@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ryley Johnson
 
-🌱 I’m currently learning playwright/typescript 
+## 🌱 I’m currently learning... Playwright/Typescript <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,playwright">
 
-## 📚 Involved in these communities:
+## 📚 Involved in these communities...
 
 <div align="center">
   <a href="https://tripleten.com/qa-engineer/" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## 📫 How to reach me:
+## 📫 How to reach me...
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ryleyj" target="_blank" style="text-decoration: none;">
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-## 🛠️ Skills and Tools:
+## 🛠️ Skills and Tools...
 
 <div align="center">
   <a href="https://www.javascript.com" target="_blank">
@@ -36,12 +36,8 @@
   <a href="https://www.postman.com" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo" />
   </a>
-  <a href="https://www.python.org" target="_blank" style="margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
-  </a>
+  
+ 
   <a href="https://www.atlassian.com/software/jira" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
   </a>
