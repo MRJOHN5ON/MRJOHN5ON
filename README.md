@@ -34,15 +34,26 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
   </a>
   <a href="https://www.postman.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="40" alt="postman logo" />
   </a>
-  
+   <a href="https://mochajs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" height="40" alt="mocha logo" />
+  </a>
+   <a href="https://jestjs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40" alt="jest logo" />
+  </a>
+   <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="node logo" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git logo" />
+  </a>
  
   <a href="https://www.atlassian.com/software/jira" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="40" alt="jira logo" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="40" alt="vscode logo" />
   </a>
   <a href="https://rocket.chat" target="_blank" style="margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=rocket" height="40" alt="rocket logo" />
