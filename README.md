@@ -14,6 +14,9 @@
     <a href="https://t.me/+zB4r4OPQUMA3ZDYx" target="_blank">
     <img src="https://i.ibb.co/YTb7f6x/photo-2024-11-27-18-52-48.jpg" width="150" height="150" alt="Social QA Bootcamp" />
   </a>
+   <a href="https://testlio.com/" target="_blank">
+    <img src="https://testlio.com/wp-content/uploads/2022/12/221201_logo_200x200.png" width="150" height="150" alt="Testlio" />
+  </a>
 </div>
 
 ## 📫 How to reach me...
