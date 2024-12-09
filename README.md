@@ -11,7 +11,7 @@
   <a href="https://www.skool.com/testers/about" target="_blank">
     <img src="https://assets.skool.com/f/2e1eab90e63f4feea70df5d4d6df71cc/e75ca36838de422199f98b55d25aae50933aa72cfee04d60af0dbc0c6f209d91" width="150" height="150" alt="STU Software Testing University" />
   </a>
-    <a href="https://t.me/+zB4r4OPQUMA3ZDYx" target="_blank">
+    <a href="https://t.me/+Zc8yObxZTJxkNWZh" target="_blank">
     <img src="https://i.ibb.co/YTb7f6x/photo-2024-11-27-18-52-48.jpg" width="150" height="150" alt="Social QA Bootcamp" />
   </a>
    <a href="https://testlio.com/" target="_blank">
