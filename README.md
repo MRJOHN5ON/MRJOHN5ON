@@ -64,9 +64,6 @@
   <a href="https://rocket.chat" target="_blank" style="margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=rocket" height="40" alt="rocket logo" />
   </a>
-  <a href="https://www.apple.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo" />
-  </a>
   <a href="https://www.canva.com" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   </a>
