@@ -12,7 +12,7 @@
     <img src="https://assets.skool.com/f/2e1eab90e63f4feea70df5d4d6df71cc/e75ca36838de422199f98b55d25aae50933aa72cfee04d60af0dbc0c6f209d91" width="150" height="150" alt="STU Software Testing University" />
   </a>
     <a href="https://thesocialqa.com" target="_blank">
-    <img src="https://i.ibb.co/YTb7f6x/photo-2024-11-27-18-52-48.jpg" width="150" height="150" alt="Social QA Bootcamp" />
+    <img src="https://www.stevenqa.com/social_qa_bootcamp_logo.png" width="150" height="150" alt="Social QA Bootcamp" />
   </a>
    <a href="https://testlio.com/" target="_blank">
     <img src="https://testlio.com/wp-content/uploads/2022/12/221201_logo_200x200.png" width="150" height="150" alt="Testlio" />
