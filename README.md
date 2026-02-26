@@ -1,23 +1,5 @@
 # 👋 Hi, I’m Ryley Johnson
 
-## 🌱 I’m currently learning... Playwright/Typescript <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,playwright">
-
-## 📚 Involved in these communities...
-
-<div align="center">
-  <a href="https://tripleten.com/qa-engineer/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4E22AQFRm15pJWpUvQ/feedshare-shrink_800/0/1686771744331?e=2147483647&v=beta&t=F3GNirr1xEZUZdFm29LsNYs0eaNkwT1VgbVxC6jU4Ao" width="150" height="150" alt="TripleTen Bootcamp" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.skool.com/testers/about" target="_blank">
-    <img src="https://assets.skool.com/f/2e1eab90e63f4feea70df5d4d6df71cc/e75ca36838de422199f98b55d25aae50933aa72cfee04d60af0dbc0c6f209d91" width="150" height="150" alt="STU Software Testing University" />
-  </a>
-    <a href="https://thesocialqa.com" target="_blank">
-    <img src="https://www.stevenqa.com/social_qa_bootcamp_logo.png" width="150" height="150" alt="Social QA Bootcamp" />
-  </a>
-   <a href="https://testlio.com/" target="_blank">
-    <img src="https://testlio.com/wp-content/uploads/2022/12/221201_logo_200x200.png" width="150" height="150" alt="Testlio" />
-  </a>
-</div>
 
 ## 📫 How to reach me...
 
@@ -33,46 +15,7 @@
   </a>
 </div>
 
-## 🛠️ Skills and Tools...
 
-<div align="center">
-  <a href="https://www.javascript.com" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
-  </a>
-  <a href="https://www.postman.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="40" alt="postman logo" />
-  </a>
-   <a href="https://mochajs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" height="40" alt="mocha logo" />
-  </a>
-   <a href="https://jestjs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40" alt="jest logo" />
-  </a>
-   <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="node logo" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git logo" />
-  </a>
- 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="40" alt="jira logo" />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="40" alt="vscode logo" />
-  </a>
-  <a href="https://rocket.chat" target="_blank" style="margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=rocket" height="40" alt="rocket logo" />
-  </a>
-  <a href="https://www.canva.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  </a>
-  <a href="https://www.figma.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  </a>
-  <a href="https://www.sqlite.org" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  </a>
 </div>
 
 <!---
